@@ -196,8 +196,6 @@ http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 group-title="其它频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 group-title="地方频道",湖南经视
-http://ls.qingting.fm/live/1207.m3u8
 #EXTINF:-1 group-title="地方频道",成都新闻
 http://live.826pc.com/cdtv/live.php?id=1
 #EXTINF:-1 group-title="地方频道",四川新闻HD
@@ -358,7 +356,7 @@ https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8?contentid=2820180516001
 https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",武夷山大红袍茶园
 https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 ,张家界迷魂台
+#EXTINF:-1 group-title="各地风景",张家界迷魂台
 https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",张家界水绕4门
 https://gccncc.v.wscdns.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
@@ -414,7 +412,7 @@ https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=28201805
 https://gccncc.v.wscdns.com/gc/tyhjrys_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",雪乡大石碑
 https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 ,雪乡梦幻家园
+#EXTINF:-1 group-title="各地风景",雪乡梦幻家园
 https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",观景台
 https://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8?contentid=2820180516001
@@ -424,7 +422,7 @@ https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=28201805160
 https://gccncc.v.wscdns.com/gc/ljgcdsc_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",汶川映秀新城
 https://gccncc.v.wscdns.com/gc/wcyxxc01_1/index.m3u8
-#EXTINF:-1 group-title="各地风景",趵突泉1
+#EXTINF:-1 group-title="各地风景",趵突泉
 https://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",贵州省兴义市万峰林
 https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
@@ -458,7 +456,7 @@ https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",天津之眼
 https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
-#EXTINF:-1 group-title="各地风景",四川凉山彝族自治州西昌市邛海景区
+#EXTINF:-1 group-title="各地风景",四川凉山西昌市邛海景区
 https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1_md.m3u8
 #EXTINF:-1 group-title="各地风景",平遥古城(回放)
 https://gccncc.v.wscdns.com/gc/pygc01_1/index.m3u8
@@ -470,7 +468,7 @@ https://gctxyc.liveplay.myqcloud.com/gc/hhdxg01_1_md.m3u8
 https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",四川四姑娘山幺妹峰
 https://gccncc.v.wscdns.com/gc/sgns01_1/index.m3u8
-#EXTINF:-1 ,group-title="各地风景"黄山
+#EXTINF:-1 group-title="各地风景",黄山
 https://gccncc.v.wscdns.com/gc/ahhs01_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",黄山卧云峰
 https://gccncc.v.wscdns.com/gc/hswlf_1/index.m3u8
