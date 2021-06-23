@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="国外精品",日本NHK华语
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 group-title="国外精品",CNN
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="国外精品",BBC World News
@@ -13,8 +11,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 group-title="国外精品",求索-生活频道
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="少儿频道",金鹰卡通1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225702/index.m3u8?
 #EXTINF:-1 group-title="少儿频道",金鹰卡通2
 http://183.207.249.5:80/PLTV/4/224/3221226303/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=aCFqDK%2BlMjoMIEXZaHkjSsvhsge7WUXGRkzuZOYZnt6IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCIXsCdU7YQCD3z6P8VUSOmnUakgAT5yOTni3ffh11JW3w%3D%3D%3A20180401125502%2C18851042983%2C112.25.7.202%2C20180401125502%2CG_JINYING%2C8BC8EA79A600C2137458F27D6988FF18%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=724
 #EXTINF:-1 group-title="少儿频道",金鹰卡通3
@@ -23,32 +19,22 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
 http://223.82.250.72/live/jinyingkaton/1.m3u8
 #EXTINF:-1 group-title="少儿频道",江苏优漫卡通
 http://39.134.66.66/PLTV/88888888/224/3221225556/index.m3u8
-#EXTINF:-1 group-title="少儿频道",卡酷少儿
-http://111.12.102.68:6610/PLTV/77777777/224/3221225730/index.m3u8?
 #EXTINF:-1 group-title="少儿频道",甘肃少儿
 http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
-#EXTINF:-1 group-title="少儿频道",优漫卡通
-http://111.12.102.68:6610/PLTV/77777777/224/3221225791/index.m3u8?
 #EXTINF:-1 group-title="央视",CCTV4K
 https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-1蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225654/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-1蓝光3
-http://111.12.102.68:6610/PLTV/77777777/224/3221225772/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-1蓝光4
 http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1蓝光5
+#EXTINF:-1 group-title="央视",CCTV-1蓝光2
 http://39.134.115.163:8080/PLTV/88888910/224/3221225918/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1蓝光6
+#EXTINF:-1 group-title="央视",CCTV-1蓝光3
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="央视",CCTV-1HD
+http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225676/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-2蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225657/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-2蓝光3
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title="央视",CCTV-2蓝光2
+http://39.135.34.150:8080/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012442&owchid=ystenlive&owsid=1106497909461775063&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRknGE%2fO0VC9Co37x%2f7gMjaWYjatUfTQlAa15Ksg%2fXe8sQo%2fi5btdpzeV%2b1v4UwuHf
 #EXTINF:-1 group-title="央视",CCTV-2HD
 http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-3蓝光1
@@ -60,22 +46,12 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-3蓝光4
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225775/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-4蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225761/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-4蓝光3
 http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-4蓝光4
+#EXTINF:-1 group-title="央视",CCTV-4蓝光2
 http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225621/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-5蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225712/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-5蓝光3
 http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-5蓝光4
-http://111.12.102.68:6610/PLTV/77777777/224/3221225516/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-5蓝光5
+#EXTINF:-1 group-title="央视",CCTV-5蓝光2
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+蓝光1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
@@ -87,110 +63,60 @@ http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-6蓝光2
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-6蓝光3
-http://111.12.102.68:6610/PLTV/77777777/224/3221225715/index.m3u8?
 #EXTINF:-1 group-title="央视",CCTV-6蓝光4
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-6蓝光5
 http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-6蓝光6
+#EXTINF:-1 group-title="央视",CCTV-6蓝光5
 http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-6蓝光7
+#EXTINF:-1 group-title="央视",CCTV-6蓝光6
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225627/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-7蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225700/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-7蓝光3
 http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8蓝光1
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225630/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-8蓝光3
 http://39.135.138.60:18890/PLTV/88888910/224/3221225631/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-8蓝光4
+#EXTINF:-1 group-title="央视",CCTV-8蓝光3
 http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-8蓝光5
+#EXTINF:-1 group-title="央视",CCTV-8蓝光4
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV-9蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225633/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-9蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225663/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-10科教蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225624/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-10科教蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225704/index.m3u8?
+#EXTINF:-1 group-title="央视",CCTV-9HD
+http://39.134.39.39/PLTV/88888888/224/3221226259/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-10科教HD
 http://117.169.120.140:8080/live/cctv-10/.m3u8
-#EXTINF:-1 group-title="央视",CCTV-11戏曲蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225739/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-11戏曲蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225750/index.m3u8?
 #EXTINF:-1 group-title="央视",CCTV-11戏曲HD
 http://223.82.250.72/live/cctv-11/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-12蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225645/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-12蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225670/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-13蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225677/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-13蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225713/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-13蓝光3
-http://111.12.102.68:6610/PLTV/77777777/224/3221225742/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-14少儿蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225673/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-14少儿蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225648/index.m3u8?
+#EXTINF:-1 group-title="央视",CCTV12
+http://39.134.39.39/PLTV/88888888/224/3221226230/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV13 HD1
+http://39.134.39.39/PLTV/88888888/224/3221225697/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV13 HD2
+http://39.134.39.39/PLTV/88888888/224/3221226263/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-15蓝光1
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-15蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225693/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-15蓝光3
-http://111.12.102.68:6610/PLTV/77777777/224/3221225830/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-17蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225513/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-17蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225833/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-17蓝光3
-http://111.12.102.68:6610/PLTV/77777777/224/3221225766/index.m3u8?
-#EXTINF:-1 group-title="央视",CETV蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225776/index.m3u8?
 #EXTINF:-1 group-title="央视",CETV蓝光2
 http://39.134.39.39/PLTV/88888888/224/3221226282/index.m3u8
 #EXTINF:-1 group-title="央视",第一财经
 http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
 #EXTINF:-1 group-title="国内卫视",湖南卫视蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225692/index.m3u8?
-#EXTINF:-1 group-title="国内卫视",湖南卫视蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225719/index.m3u8?
-#EXTINF:-1 group-title="国内卫视",湖南卫视蓝光3
 http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
-#EXTINF:-1 group-title="国内卫视",浙江卫视HD
+#EXTINF:-1 group-title="国内卫视",湖南卫视HD1
+http://39.134.39.39/PLTV/88888888/224/3221226268/index.m3u8
+#EXTINF:-1 group-title="国内卫视",湖南卫视HD2
+http://39.135.34.150:8080/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=1106497909461209970&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf%2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K%2bdNVn%2bMR4
+#EXTINF:-1 group-title="国内卫视",浙江卫视HD1
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 group-title="国内卫视",浙江卫视蓝光1
 http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
-#EXTINF:-1 group-title="国内卫视",浙江卫视蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225695/index.m3u8?
 #EXTINF:-1 group-title="国内卫视",江苏卫视蓝光1
 http://39.134.39.39/PLTV/88888888/224/3221226157/index.m3u8
-#EXTINF:-1 group-title="国内卫视",江苏卫视蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225636/index.m3u8?
 #EXTINF:-1 group-title="国内卫视",东方卫视蓝光1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
 #EXTINF:-1 group-title="国内卫视",东方卫视蓝光2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="国内卫视",东方卫视蓝光3
-http://111.12.102.68:6610/PLTV/77777777/224/3221225718/index.m3u8?
+http://39.135.34.150:8080/000000001000/1000000001000030202/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000030202&owchid=ystenlive&owsid=1106497909461236159&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR5IXgk%2B6a%2BY1Viivj30IkCl065X8GSWgqnbGOJH69GYNl9jXWqt3b3Vkm63dGSY%2B5
 #EXTINF:-1 group-title="国内卫视",安徽卫视蓝光1
 http://39.134.66.66/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 group-title="国内卫视",安徽卫视蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225671/index.m3u8?
 #EXTINF:-1 group-title="国内卫视",北京卫视蓝光1
 http://117.169.119.199:8080/live/hdbeijingstv/index.m3u8
-#EXTINF:-1 group-title="国内卫视",北京卫视蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225664/index.m3u8?
 #EXTINF:-1 group-title="国内卫视",北京卫视HD
 http://183.207.249.7/PLTV/3/224/3221225574/index.m3u8
 #EXTINF:-1 group-title="国内卫视",甘肃卫视蓝光1
@@ -203,26 +129,16 @@ http://117.169.120.140:8080/live/gansustv/.m3u8
 http://223.82.250.72/live/shanxi1stv/1.m3u8
 #EXTINF:-1 group-title="国内卫视",深圳卫视蓝光1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="国内卫视",深圳卫视蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225691/index.m3u8?
 #EXTINF:-1 group-title="国内卫视",深圳卫视蓝光3
 http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8
 #EXTINF:-1 group-title="国内卫视",深圳卫视HD
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=42&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
-#EXTINF:-1 group-title="国内卫视",山东卫视蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225642/index.m3u8?
-#EXTINF:-1 group-title="国内卫视",山东卫视蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225672/index.m3u8?
 #EXTINF:-1 group-title="国内卫视",天津卫视蓝光1
 http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 group-title="国内卫视",天津卫视蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225675/index.m3u8?
 #EXTINF:-1 group-title="国内卫视",四川卫视蓝光
 http://ivi.bupt.edu.cn/hls/schd.m3u8
 #EXTINF:-1 group-title="国内卫视",四川卫视HD
 http://39.134.39.39/PLTV/88888888/224/3221225649/index.m3u8
-#EXTINF:-1 group-title="国内卫视",重庆卫视蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225745/index.m3u8?
 #EXTINF:-1 group-title="国内卫视",重庆卫视蓝光2
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 #EXTINF:-1 group-title="国内卫视",宁夏卫视超清
@@ -249,8 +165,6 @@ http://39.134.168.91/PLTV/1/224/3221225646/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225496/index.m3u8
 #EXTINF:-1 group-title="国内卫视",东南卫视蓝光1
 http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
-#EXTINF:-1 group-title="国内卫视",东南卫视蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225696/index.m3u8?
 #EXTINF:-1 group-title="国内卫视",东南卫视蓝光3
 http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 group-title="国内卫视",河北卫视超清
@@ -259,8 +173,6 @@ http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225840/index.m3u8
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=41&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
 #EXTINF:-1 group-title="国内卫视",广东卫视蓝光1
 http://39.134.66.66/PLTV/88888888/224/3221225667/index.m3u8
-#EXTINF:-1 group-title="国内卫视",广东卫视蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225666/index.m3u8?
 #EXTINF:-1 group-title="国内卫视",黑龙江卫视蓝光
 http://39.134.39.39/PLTV/88888888/224/3221226142/index.m3u8
 #EXTINF:-1 group-title="国内卫视",黑龙江卫视HD1
@@ -277,10 +189,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225575/index.m3u8
 http://124.47.33.200/PLTV/88888888/224/3221225591/index.m3u8
 #EXTINF:-1 group-title="国内卫视",山东卫视HD2
 http://39.134.66.66/PLTV/88888888/224/3221225566/index.m3u8
-#EXTINF:-1 group-title="国内卫视",湖北卫视蓝光1
-http://111.12.102.68:6610/PLTV/77777777/224/3221225689/index.m3u8?
-#EXTINF:-1 group-title="国内卫视",湖北卫视蓝光2
-http://111.12.102.68:6610/PLTV/77777777/224/3221225721/index.m3u8?
 #EXTINF:-1 group-title="国内卫视",湖北卫视蓝光3
 http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
 #EXTINF:-1 group-title="国内卫视",厦门卫视HD1
@@ -413,8 +321,6 @@ http://39.134.135.81:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.
 http://39.134.24.223:80/PLTV/88888888/224/3221225993/index.m3u8
 #EXTINF:-1 group-title="各地风景",全国风景总览
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="各地风景",黟县宏村月沼
-https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",黟县宏村南湖
 https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",黟县西递牌坊
@@ -423,12 +329,8 @@ https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
 https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",黟县卢村远眺
 https://gccncc.v.wscdns.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="各地风景",婺源江岭1
-https://gctxyc.liveplay.myqcloud.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",婺源江岭2
 https://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="各地风景",黄山始信峰
-https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",黄山卧云峰
 https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",黄山梦笔生花
@@ -447,12 +349,8 @@ https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
 https://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",云台山红石硖
 https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="各地风景",泰山主峰
-https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",泰山迎客松
 https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="各地风景",泰山大观峰
-https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",泰山拱北石
 https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",泰山玉皇顶
@@ -465,14 +363,10 @@ https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8?contentid=2820180516001
 https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",武夷山玉女峰
 https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="各地风景",武夷山大红袍茶园
-https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",张家界迷魂台
 https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",张家界水绕4门
 https://gccncc.v.wscdns.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="各地风景",张家界将军列队
-https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",张家界阿凡达悬浮山
 https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",凤凰古城
@@ -497,10 +391,6 @@ https://gccncc.v.wscdns.com/gc/ljgcszsnkgc_1/index.m3u8?contentid=2820180516001
 https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",大研花巷景观台
 https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="各地风景",峨眉云海日出
-https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="各地风景",贡嘎雪山
-https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",远眺万佛顶
 https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",普贤菩萨像
@@ -513,22 +403,12 @@ https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
 https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",悬空寺侧景
 https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="各地风景",天涯鸟瞰
-https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="各地风景",天涯石
-https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="各地风景",南天一柱
-https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",日月石
 https://gccncc.v.wscdns.com/gc/tyhjrys_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",雪乡大石碑
 https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="各地风景",雪乡梦幻家园
-https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",观景台
 https://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="各地风景",嘉峪关长城
-https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="各地风景",趵突泉1
 https://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",贵州省兴义市万峰林
@@ -561,14 +441,10 @@ https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",天津之眼
 https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
-#EXTINF:-1 group-title="各地风景",四川凉山彝族自治州西昌市邛海景区
-https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1_md.m3u8
 #EXTINF:-1 group-title="各地风景",平遥古城(回放)
 https://gccncc.v.wscdns.com/gc/pygc01_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",普陀山
 https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
-#EXTINF:-1 group-title="各地风景",宁夏黄河大峡谷
-https://gctxyc.liveplay.myqcloud.com/gc/hhdxg01_1_md.m3u8
 #EXTINF:-1 group-title="各地风景",张掖七彩丹霞
 https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",四川四姑娘山幺妹峰
@@ -593,12 +469,8 @@ https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",四川阿坝州松潘县黄龙景区望乡台
 https://gccncc.v.wscdns.com/gc/hlwxt_1/index.m3u8
-#EXTINF:-1 group-title="各地风景",乐山大佛全景(回放)
-https://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1_md.m3u8
 #EXTINF:-1 group-title="各地风景",峨眉山云海日出
 https://gccncc.v.wscdns.com/gc/emsarm_1/index.m3u8
-#EXTINF:-1 group-title="各地风景",峨眉山远眺贡嘎雪山
-https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1_md.m3u8
 #EXTINF:-1 group-title="各地风景",都江堰鱼嘴(回放)
 https://gccncc.v.wscdns.com/gc/djyqyl1_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",都江堰秦堰楼(回放)
@@ -611,14 +483,10 @@ https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
 https://gccncc.v.wscdns.com/gc/wgw03_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",黄花城水长城04
 https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8
-#EXTINF:-1 group-title="各地风景",湘西凤凰古城南华山
-https://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",安徽黟县宏村芦村远眺
 https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",神农架金丝猴01(回放)
 https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8
-#EXTINF:-1 group-title="各地风景",神农架金丝猴02(回放)
-https://gccncc.v.wscdns.com/gc/jsh02_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",神农架金丝猴06(回放)
 https://gccncc.v.wscdns.com/gc/jsh06_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",八达岭长城南七楼(回放)
@@ -630,17 +498,9 @@ https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",中央电视塔中塔南(回放)
 https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",中央电视塔中塔西(回放)
-https://gctxyc.liveplay.myqcloud.com/gc/ztx_1_md.m3u8
-#EXTINF:-1 group-title="各地风景",中央电视塔中塔西(回放)
-https://gctxyc.liveplay.myqcloud.com/gc/ztx_1/index.m3u8
-#EXTINF:-1 group-title="各地风景",中央电视塔中塔西(回放)
 https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",中央电视塔中塔北(回放)
 https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
-#EXTINF:-1 group-title="各地风景",恒山悬空寺全景(回放)
-https://gctxyc.liveplay.myqcloud.com/gc/hsxksqj_1_md.m3u8
-#EXTINF:-1 group-title="各地风景",黄果树瀑布银链坠潭瀑布
-https://gctxyc.liveplay.myqcloud.com/gc/hgsylztpb_1_md.m3u8
 #EXTINF:-1 group-title="各地风景",黄果树瀑布六角亭瀑布
 https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
 #EXTINF:-1 group-title="各地风景",天涯海角の天涯鸟瞰
