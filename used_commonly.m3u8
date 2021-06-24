@@ -115,10 +115,12 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
 http://39.135.34.150:8080/000000001000/1000000001000030202/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000030202&owchid=ystenlive&owsid=1106497909461236159&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR5IXgk%2B6a%2BY1Viivj30IkCl065X8GSWgqnbGOJH69GYNl9jXWqt3b3Vkm63dGSY%2B5
 #EXTINF:-1 group-title="国内卫视",安徽卫视蓝光1
 http://39.134.66.66/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 group-title="国内卫视",北京卫视蓝光1
-http://117.169.119.199:8080/live/hdbeijingstv/index.m3u8
 #EXTINF:-1 group-title="国内卫视",北京卫视HD
 http://183.207.249.7/PLTV/3/224/3221225574/index.m3u8
+#EXTINF:-1 group-title="国内卫视",北京卫视蓝光1
+http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
+#EXTINF:-1 group-title="国内卫视",北京卫视蓝光2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
 #EXTINF:-1 group-title="国内卫视",甘肃卫视蓝光1
 http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
 #EXTINF:-1 group-title="国内卫视",甘肃卫视HD1
