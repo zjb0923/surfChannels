@@ -197,6 +197,12 @@ http://39.134.39.39/PLTV/88888888/224/3221225689/index.m3u8
 http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 #EXTINF:-1 group-title="港台直播",凤凰卫视蓝光2
 http://117.169.120.138:8080/live/fhchinese/index.m3u8
+#EXTINF:-1 group-title="港台直播",凤凰卫视HD1
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 group-title="港台直播",凤凰卫视HD2
+http://39.134.134.89:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
+#EXTINF:-1 group-title="港台直播",凤凰卫视HD3
+http://223.82.250.72/live/fhchinese/1.m3u8
 #EXTINF:-1 group-title="港台直播",凤凰资讯HD1
 http://125.210.152.18:9090/live/FHZX_1200.m3u8
 #EXTINF:-1 group-title="港台直播",凤凰资讯HD2
@@ -213,12 +219,6 @@ http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="港台直播",凤凰香港蓝光2
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="港台直播",凤凰中文HD1
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 group-title="港台直播",凤凰中文HD2
-http://39.134.134.89:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 group-title="港台直播",凤凰中文HD3
-http://223.82.250.72/live/fhchinese/1.m3u8
 #EXTINF:-1 group-title="港台直播",星空卫视1
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="港台直播",星空卫视2
