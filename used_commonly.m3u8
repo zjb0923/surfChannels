@@ -71,8 +71,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 group-title="央视直播",CCTV-7蓝光1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
-#EXTINF:-1 group-title="央视直播",CCTV-7HD1
-https://flv3948069e.live.126.net/live/da02b6bd52665b238e7b6db1751549bc.flv
 #EXTINF:-1 group-title="央视直播",CCTV-8蓝光1
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
 #EXTINF:-1 group-title="央视直播",CCTV-8蓝光2
@@ -195,14 +193,6 @@ http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
 #EXTINF:-1 group-title="卫视直播",厦门卫视HD2
 http://39.134.39.39/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 group-title="港台直播",台湾寰宇新闻HD
-https://flv3948069e.live.126.net/live/e7571715f1347180bc182c254ecb12bd.flv
-#EXTINF:-1 group-title="港台直播",台湾中天新闻HD
-https://flv3948069e.live.126.net/live/033831e3ca32be6167b5686c480b6d45.flv
-#EXTINF:-1 group-title="港台直播",台湾东森新闻HD
-https://flv3948069e.live.126.net/live/97800b156793d44e79477758ce3d2a55.flv
-#EXTINF:-1 group-title="港台直播",台湾中视新闻HD
-https://flv3948069e.live.126.net/live/23be79fdad00b5a60631a426f70e8a3e.flv
 #EXTINF:-1 group-title="港台直播",凤凰卫视蓝光1
 http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 #EXTINF:-1 group-title="港台直播",凤凰卫视蓝光2
