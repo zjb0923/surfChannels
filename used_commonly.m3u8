@@ -99,8 +99,6 @@ http://39.134.65.66:80/wh7f454c46tw1795052499_2123886623/ottrrs.hl.chinamobile.c
 http://223.82.250.72/live/shanxi1stv/1.m3u8
 #EXTINF:-1 group-title="卫视直播",深圳卫视蓝光
 http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="卫视直播",深圳卫视HD
-http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=42&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
 #EXTINF:-1 group-title="卫视直播",天津卫视蓝光
 http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 group-title="卫视直播",四川卫视蓝光
@@ -121,8 +119,6 @@ http://39.134.39.39/PLTV/88888888/224/3221226207/index.m3u8
 http://ivi.bupt.edu.cn/hls/jxhd.m3u8
 #EXTINF:-1 group-title="卫视直播",陕西卫视高清
 http://124.47.33.200/PLTV/88888888/224/3221225498/index.m3u8
-#EXTINF:-1 group-title="卫视直播",山西卫视高清
-http://39.134.168.91/PLTV/1/224/3221225646/index.m3u8
 #EXTINF:-1 group-title="卫视直播",山西卫视HD
 http://39.134.65.162/PLTV/88888888/224/3221225496/index.m3u8
 #EXTINF:-1 group-title="卫视直播",东南卫视蓝光1
@@ -131,8 +127,6 @@ http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 group-title="卫视直播",河北卫视超清
 http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225840/index.m3u8
-#EXTINF:-1 group-title="卫视直播",贵州卫视高清
-http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=41&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
 #EXTINF:-1 group-title="卫视直播",黑龙江卫视蓝光
 http://39.134.39.39/PLTV/88888888/224/3221226142/index.m3u8
 #EXTINF:-1 group-title="卫视直播",黑龙江卫视HD
@@ -155,16 +149,10 @@ http://39.134.134.89:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.
 http://125.210.152.18:9090/live/FHZX_1200.m3u8
 #EXTINF:-1 group-title="港台直播",凤凰资讯蓝光
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1 group-title="港台直播",星空卫视1
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="港台直播",星空卫视2
-http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 group-title="地方频道",成都新闻
 http://live.826pc.com/cdtv/live.php?id=1
 #EXTINF:-1 group-title="地方频道",四川文化旅游
 http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
-#EXTINF:-1 group-title="地方频道",北京生活
-http://ivi.bupt.edu.cn/hls/btv7.m3u8
 #EXTINF:-1 group-title="地方频道",兰州公共频道蓝光
 http://39.134.39.39/PLTV/88888888/224/3221226244/index.m3u8
 #EXTINF:-1 group-title="地方频道",兰州生活经济蓝光
@@ -177,8 +165,6 @@ http://39.134.65.162/PLTV/88888888/224/3221225525/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
 #EXTINF:-1 group-title="影视频道",NewTV超级电影
 http://39.134.134.82:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8
-#EXTINF:-1 group-title="影视频道",CBN每日影院
-http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=71&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 group-title="影视频道",CHC高清电影
 http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 group-title="影视频道",CHC家庭影院
