@@ -21,8 +21,6 @@ http://223.82.250.72/live/jinyingkaton/1.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225556/index.m3u8
 #EXTINF:-1 group-title="少儿频道",甘肃少儿
 http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
-#EXTINF:-1 group-title="央视直播",CCTV4K
-https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
 #EXTINF:-1 group-title="央视直播",CCTV-1蓝光
 http://39.134.115.163:8080/PLTV/88888910/224/3221225918/index.m3u8
 #EXTINF:-1 group-title="央视直播",CCTV-1HD
@@ -61,8 +59,8 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225631/index.m3u8
 http://117.169.120.140:8080/live/cctv-10/.m3u8
 #EXTINF:-1 group-title="央视直播",CCTV-11戏曲HD
 http://223.82.250.72/live/cctv-11/1.m3u8
-#EXTINF:-1 group-title="央视直播",CCTV12
-http://39.134.39.39/PLTV/88888888/224/3221226230/index.m3u8
+#EXTINF:-1 group-title="央视直播",CCTV-12社会与法
+http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 group-title="央视直播",CCTV13 蓝光
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 group-title="央视直播",CCTV13 HD
@@ -171,8 +169,6 @@ http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 group-title="影视频道",CHC动作电影
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="影视频道",徐克电影
-https://6721.liveplay.now.qq.com/live/6721_76c8ba6de24321642bad8c27873ade3a.m3u8
 #EXTINF:-1 group-title="影视频道",周星驰电影
 http://tv.rdys888.top/bak/proxy/youku.php?id=8021901
 #EXTINF:-1 group-title="影视频道",刘德华电影
