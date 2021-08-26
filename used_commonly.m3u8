@@ -82,7 +82,7 @@ http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
 #EXTINF:-1 group-title="国内卫视",湖南卫视蓝光
 http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
 #EXTINF:-1 group-title="国内卫视",湖南卫视高清
-http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1 group-title="国内卫视",浙江卫视蓝光
 http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
 #EXTINF:-1 group-title="国内卫视",浙江卫视高清
@@ -105,6 +105,8 @@ http://117.169.120.140:8080/live/gansustv/.m3u8
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=19&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="国内卫视",河南卫视高清
 http://183.207.249.15:80/PLTV/4/224/3221225815/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzA4vtSIDkGIgBiaqrfuKfc0%2BwWipdMTdABhAgmyZ6eCLuGX7trFA1uyIOMxmVkKch8XtG26AoYxiNZoMBXkEVXw%3D%3D%3A20180401123527%2C18851042983%2C112.25.46.66%2C20180401123527%2CHENAN%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=824
+#EXTINF:-1 group-title="国内卫视",陕西卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225498/index.m3u8
 #EXTINF:-1 group-title="国内卫视",陕西卫视
 http://223.82.250.72/live/shanxi1stv/1.m3u8
 #EXTINF:-1 group-title="国内卫视",深圳卫视蓝光
@@ -119,14 +121,8 @@ http://39.134.39.39/PLTV/88888888/224/3221225649/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 #EXTINF:-1 group-title="国内卫视",辽宁卫视蓝光
 http://39.134.39.39/PLTV/88888888/224/3221226209/index.m3u8
-#EXTINF:-1 group-title="国内卫视",辽宁卫视高清
-http://39.134.39.39/PLTV/88888888/224/3221226209/index.m3u8
 #EXTINF:-1 group-title="国内卫视",江西卫视蓝光
 http://39.134.39.39/PLTV/88888888/224/3221226207/index.m3u8
-#EXTINF:-1 group-title="国内卫视",江西卫视高清
-http://39.134.39.39/PLTV/88888888/224/3221226207/index.m3u8
-#EXTINF:-1 group-title="国内卫视",陕西卫视高清
-http://124.47.33.200/PLTV/88888888/224/3221225498/index.m3u8
 #EXTINF:-1 group-title="国内卫视",山西卫视高清
 http://39.134.65.162/PLTV/88888888/224/3221225496/index.m3u8
 #EXTINF:-1 group-title="国内卫视",东南卫视蓝光
