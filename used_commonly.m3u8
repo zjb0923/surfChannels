@@ -7,9 +7,9 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="国外精品",英国MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 group-title="少儿频道",金鹰卡通2
+#EXTINF:-1 group-title="少儿频道",金鹰卡通1
 http://183.207.249.5:80/PLTV/4/224/3221226303/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=aCFqDK%2BlMjoMIEXZaHkjSsvhsge7WUXGRkzuZOYZnt6IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCIXsCdU7YQCD3z6P8VUSOmnUakgAT5yOTni3ffh11JW3w%3D%3D%3A20180401125502%2C18851042983%2C112.25.7.202%2C20180401125502%2CG_JINYING%2C8BC8EA79A600C2137458F27D6988FF18%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=724
-#EXTINF:-1 group-title="少儿频道",金鹰卡通3
+#EXTINF:-1 group-title="少儿频道",金鹰卡通2
 http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
 #EXTINF:-1 group-title="少儿频道",江苏优漫卡通
 http://39.134.66.66/PLTV/88888888/224/3221225556/index.m3u8
@@ -39,9 +39,9 @@ http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+高清
 http://39.134.39.39/PLTV/88888888/224/3221226108/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-6蓝光
-http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-6高清
+#EXTINF:-1 group-title="央视",CCTV-6高清1
+http://39.134.39.39/PLTV/88888888/224/3221226148/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-6高清2
 http://player.cntv.cn/standard/live_HLSDRM20180606.swf?v=180.171.5.8.9.6.3.9&vdnSID=&vdnIP=&vdnCountryCode=&vdnProvinceCode=&vdnCityCode=&vdnISPCode=&tai=cctv6&ChannelID=cctv6&videoTVChannel=cctv6&P2PChannelID=pd://cctv_p2p_hdcctv6,cntv-cctv6
 #EXTINF:-1 group-title="央视",CCTV-7蓝光
 http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
@@ -55,8 +55,12 @@ http://39.134.39.39/PLTV/88888888/224/3221226150/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-9高清
 http://39.135.34.150:8080/000000001000/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000014583&owchid=ystenlive&owsid=1106497909461138654&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRh3XYVWmjehcJ6eeMnvhxAUHggQtCK8Xdm86HMC53JU75N56tG8kTzA%2fMocL0w%2bEi
-#EXTINF:-1 group-title="央视",CCTV-10科教高清
+#EXTINF:-1 group-title="央视",CCTV-10高清
 http://117.169.120.140:8080/live/cctv-10/.m3u8
+#EXTINF:-1 group-title="央视",CCTV-10蓝光
+http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-11戏曲
+http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-12蓝光
 http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-13蓝光
@@ -71,6 +75,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-15高清
 http://125.210.152.18:9090/live/ZYYY.m3u8
+#EXTINF:-1 group-title="央视",CCTV-17蓝光
+http://39.134.115.163:8080/PLTV/88888910/224/3221225909/index.m3u8
 #EXTINF:-1 group-title="央视",第一财经
 http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
 #EXTINF:-1 group-title="国内卫视",湖南卫视蓝光
@@ -142,7 +148,7 @@ http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 group-title="其它频道",凤凰资讯HD1
 http://125.210.152.18:9090/live/FHZX_1200.m3u8
 #EXTINF:-1 group-title="其它频道",凤凰资讯HD2
-http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
+http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 #EXTINF:-1 group-title="其它频道",凤凰资讯HD3
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="其它频道",凤凰香港蓝光1
@@ -152,7 +158,7 @@ http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="其它频道",凤凰中文HD1
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 group-title="其它频道",凤凰中文HD2
-http://39.134.134.89:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
+http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
 #EXTINF:-1 group-title="其它频道",星空卫视1
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="其它频道",星空卫视2
@@ -163,9 +169,9 @@ http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
 http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
 #EXTINF:-1 group-title="地方频道",甘肃公共应急
 http://39.134.39.39/PLTV/88888888/224/3221226250/index.m3u8
+#EXTINF:-1 group-title="地方频道",兰州新闻综合蓝光
+http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 group-title="地方频道",兰州公共频道蓝光
 http://39.134.39.39/PLTV/88888888/224/3221226244/index.m3u8
 #EXTINF:-1 group-title="地方频道",兰州生活经济蓝光
 http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8
-#EXTINF:-1 group-title="地方频道",兰州新闻综合蓝光
-http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
