@@ -95,6 +95,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
 #EXTINF:-1 group-title="国内卫视",东方卫视高清
 http://39.134.39.39/PLTV/88888888/224/3221226155/index.m3u8
+#EXTINF:-1 group-title="国内卫视",北京卫视蓝光
+http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
 #EXTINF:-1 group-title="国内卫视",北京卫视高清
 http://183.207.249.7/PLTV/3/224/3221225574/index.m3u8
 #EXTINF:-1 group-title="国内卫视",甘肃卫视蓝光
@@ -141,14 +143,10 @@ http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
 #EXTINF:-1 group-title="其它频道",凤凰卫视蓝光
 http://117.169.120.138:8080/live/fhchinese/index.m3u8
-#EXTINF:-1 group-title="其它频道",凤凰资讯HD2
-http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
-#EXTINF:-1 group-title="其它频道",凤凰资讯HD3
+#EXTINF:-1 group-title="其它频道",凤凰资讯
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 group-title="其它频道",凤凰中文HD1
+#EXTINF:-1 group-title="其它频道",凤凰中文
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 group-title="其它频道",凤凰中文HD2
-http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
 #EXTINF:-1 group-title="其它频道",星空卫视1
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="其它频道",星空卫视2
