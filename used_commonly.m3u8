@@ -67,8 +67,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-13新闻蓝光
 http://183.207.249.36:80/PLTV/4/224/3221227387/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlz8gqXYszxJXTww4r47BQdS0%2BwWipdMTdABhAgmyZ6eCJfP0Ac3td%2FOmE852rVD7h16CRgd6UpNLMSQENGhXOBYw%3D%3D%3A20180401121342%2C18851042983%2C112.25.46.67%2C20180401121342%2CG_CCTV-13-HQ%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=4364
-#EXTINF:-1 group-title="央视",CCTV-13新闻高清
-http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
 #EXTINF:-1 group-title="央视",CCTV-14少儿蓝光
 http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-14少儿高清
@@ -83,9 +81,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1 group-title="国内卫视",湖南卫视蓝光2
 http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
-#EXTINF:-1 group-title="国内卫视",湖南卫视高清1
-http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
-#EXTINF:-1 group-title="国内卫视",湖南卫视高清2
+#EXTINF:-1 group-title="国内卫视",湖南卫视高清
 http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1 group-title="国内卫视",浙江卫视高清1
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
@@ -115,25 +111,9 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225496/index.m3u8
 #EXTINF:-1 group-title="国内卫视",黑龙江卫视高清
 http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
-#EXTINF:-1 group-title="其它频道",寰宇新闻
-http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
-#EXTINF:-1 group-title="其它频道",东森新闻
-http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 group-title="其它频道",凤凰卫视蓝光
 http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 group-title="其它频道",凤凰资讯高清
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="其它频道",凤凰香港蓝光2
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="其它频道",卫视中文台
-http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
-#EXTINF:-1 group-title="其它频道",八大综合台
-http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
-#EXTINF:-1 group-title="其它频道",中天娱乐
-http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
-#EXTINF:-1 group-title="其它频道",中天新闻
-http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
-#EXTINF:-1 group-title="其它频道",华视
-http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
-#EXTINF:-1 group-title="其它频道",台视
-http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
