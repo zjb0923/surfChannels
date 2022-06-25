@@ -5,14 +5,12 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="国外精品",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 group-title="国外精品",亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="少儿频道",金鹰卡通1
 http://183.207.249.5:80/PLTV/4/224/3221226303/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=aCFqDK%2BlMjoMIEXZaHkjSsvhsge7WUXGRkzuZOYZnt6IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCIXsCdU7YQCD3z6P8VUSOmnUakgAT5yOTni3ffh11JW3w%3D%3D%3A20180401125502%2C18851042983%2C112.25.7.202%2C20180401125502%2CG_JINYING%2C8BC8EA79A600C2137458F27D6988FF18%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=724
 #EXTINF:-1 group-title="少儿频道",金鹰卡通2
 http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1综合高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225630/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1综合高清2
 http://39.134.115.163:8080/PLTV/88888910/224/3221225918/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2财经高清
@@ -33,8 +31,10 @@ http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
 http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+体育赛事高清2
 http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-6电影蓝光2
+#EXTINF:-1 group-title="央视",CCTV-6电影高清
 http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-6电影高清2
+http://140.207.241.3:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7国防军事高清
 http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7国防军事高清2
@@ -65,8 +65,6 @@ http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-15音乐高清
 http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-16奥林匹克高清
-http://39.135.49.20:6610/PLTV/88888888/224/3221227125/1.m3u8?servicetype=1
 #EXTINF:-1 group-title="央视",CCTV-17农业农村高清
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-17农业农村高清2
