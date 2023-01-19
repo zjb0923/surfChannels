@@ -8,10 +8,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1综合高清1
 http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1综合高清2
-http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1综合高清3
 http://39.134.115.163:8080/PLTV/88888910/224/3221225630/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1综合高清4
+#EXTINF:-1 group-title="央视",CCTV-1综合高清3
 http://117.169.120.140:8080/live/cctv-1/.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2财经高清1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
