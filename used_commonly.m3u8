@@ -1,23 +1,17 @@
 #EXTM3U
 #EXTINF:-1 group-title="国外精品",CNN
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="少儿频道",金鹰卡通1
-http://183.207.249.5:80/PLTV/4/224/3221226303/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=aCFqDK%2BlMjoMIEXZaHkjSsvhsge7WUXGRkzuZOYZnt6IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCIXsCdU7YQCD3z6P8VUSOmnUakgAT5yOTni3ffh11JW3w%3D%3D%3A20180401125502%2C18851042983%2C112.25.7.202%2C20180401125502%2CG_JINYING%2C8BC8EA79A600C2137458F27D6988FF18%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=724
 #EXTINF:-1 group-title="少儿频道",金鹰卡通2
 http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1综合高清1
 http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1综合高清2
-http://39.134.115.163:8080/PLTV/88888910/224/3221225630/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1综合高清3
-http://117.169.120.140:8080/live/cctv-1/.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225630/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2财经高清1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2财经高清2
 http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-3综艺高清1
-http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-3综艺高清2
 http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4中文国际1
 http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
@@ -25,14 +19,10 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-6电影高清
 http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-7军事
-http://117.169.120.140:8080/live/cctv-7/.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8电视剧高清
 http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-13新闻高清1
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-13新闻高清2
-http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="央视",CCTV-15音乐高清
 http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-16奥林匹克
@@ -71,5 +61,3 @@ http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="其它频道",香港卫视高清
 http://124.238.99.44:808/hls/352/index.m3u8
-#EXTINF:-1 group-title="其它频道",咪咕体育
-http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
