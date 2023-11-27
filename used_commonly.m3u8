@@ -3,85 +3,111 @@
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="新闻频道",亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="央视",CCTV1综合
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 group-title="央视",CCTV1综合HD
+#EXTINF:-1 group-title="央视",CCTV1综合1
+https://p.ggiptv.com/v/ysp.m3u8?token=WSCACW1s1xQdtbk5fq16gY2g&id=cctv1
+#EXTINF:-1 group-title="央视",CCTV1综合2
 http://tvpull.dxhmt.cn/tv/11481-4.m3u8
-#EXTINF:-1 group-title="央视",CCTV1综合1080P
+#EXTINF:-1 group-title="央视",CCTV1综合3
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV2财经
+#EXTINF:-1 group-title="央视",CCTV1综合4
+http://stream10.fjtv.net/cctv1/playlist.m3u8?_upt=7fc900a71701095579
+#EXTINF:-1 group-title="央视",CCTV2财经1
+https://p.ggiptv.com/v/ysp.m3u8?token=ejfJG5ehsIXjA%2FgRqRrJc69x&id=cctv2
+#EXTINF:-1 group-title="央视",CCTV2财经2
 https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/877097d2fa-0-0-b7736e6941fd5cb71f45ef9397b68092/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV2财经HD
+#EXTINF:-1 group-title="央视",CCTV2财经3
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-#EXTINF:-1 group-title="央视",CCTV2财经1080P
+#EXTINF:-1 group-title="央视",CCTV2财经4
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV3综艺
+#EXTINF:-1 group-title="央视",CCTV3综艺1
+https://p.ggiptv.com/v/ysp.m3u8?token=kQNmOifEiOYfYiNMqKuXklqE&id=cctv3
+#EXTINF:-1 group-title="央视",CCTV3综艺2
 http://111.20.40.166/PLTV/88888893/224/3221226397/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV3综艺HD
+#EXTINF:-1 group-title="央视",CCTV3综艺3
 https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/0df24da9ec-0-0-dca40ddadd2a051ce1a83536d9310820/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV3综艺1080P
-http://183.196.25.171:808/hls/75/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV4中文1080P
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4中文
+https://p.ggiptv.com/v/ysp.m3u8?token=V9j9ZccliBLfNyKXKwO6K6nP&id=cctv4
 #EXTINF:-1 group-title="央视",CCTV5体育HD
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV5体育1080P
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV6电影HD
+#EXTINF:-1 group-title="央视",CCTV5体育赛事
+https://p.ggiptv.com/v/ysp.m3u8?token=tKbjepwWqDhtlFQO57OlxP0i&id=cctv5p
+#EXTINF:-1 group-title="央视",CCTV6电影1
 http://jltpc.x3322.net:9901/tsfile/live/0006_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视",CCTV6电影1080P
+#EXTINF:-1 group-title="央视",CCTV6电影2
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41141/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV7国防军事
+https://p.ggiptv.com/v/ysp.m3u8?token=DbKOrASzViOdtAwfNrzn2J8f&id=cctv7
 #EXTINF:-1 group-title="央视",CCTV8电视剧
-http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel8/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV8电视剧HD
-http://cfss.cc/api/ysp/cctv8.m3u8
-#EXTINF:-1 group-title="央视",CCTV8电视剧1080P
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV9记录1080P
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV10科教HD
-http://cfss.cc/api/ysp/cctv10.m3u8
-#EXTINF:-1 group-title="央视",CCTV12社会与法HD
-http://cfss.cc/api/ysp/cctv12.m3u8
-#EXTINF:-1 group-title="央视",CCTV12社会与法1080P
-http://183.196.25.171:808/hls/12/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV13新闻HD
+https://p.ggiptv.com/v/ysp.m3u8?token=fjLkxZ1dibXL2fJ%2F6v8RnSob&id=cctv8
+#EXTINF:-1 group-title="央视",CCTV9记录
+https://p.ggiptv.com/v/ysp.m3u8?token=ak7IX%2FJX3JcUnWrrFrYJJb5U&id=cctv9
+#EXTINF:-1 group-title="央视",CCTV10科教
+https://p.ggiptv.com/v/ysp.m3u8?token=sFAEh%2BSsIG4ua%2BggxzpF6J98&id=cctv10
+#EXTINF:-1 group-title="央视",CCTV11戏曲
+https://p.ggiptv.com/v/ysp.m3u8?token=Ko9Im6%2Bue3f3OhBmyb%2FR%2F2Qj&id=cctv11
+#EXTINF:-1 group-title="央视",CCTV12社会与法
+https://p.ggiptv.com/v/ysp.m3u8?token=QlMcTh%2F2k4wI%2BZdo8He7BbYd&id=cctv12
+#EXTINF:-1 group-title="央视",CCTV13新闻1
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="央视",CCTV13新闻1080P
-http://122.224.153.162:9901/tsfile/live/0013_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视",CCTV15音乐HD
+#EXTINF:-1 group-title="央视",CCTV13新闻2
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+EXTINF:-1 group-title="央视",CCTV14少儿
+https://p.ggiptv.com/v/ysp.m3u8?token=qnFdd1FsGPmAKwPR6poWpuoi&id=cctv14
+#EXTINF:-1 group-title="央视",CCTV15音乐1
+https://p.ggiptv.com/v/ysp.m3u8?token=UQOG0kiCT93dk%2BQTsX%2BhKiuW&id=cctv15
+#EXTINF:-1 group-title="央视",CCTV15音乐2
 http://cfss.cc/api/ysp/cctv15.m3u8
-#EXTINF:-1 group-title="央视",CCTV16奥林匹克HD
-http://cfss.cc/api/ysp/cctv16.m3u8
-#EXTINF:-1 group-title="央视",CGTV国际频道高清
+#EXTINF:-1 group-title="央视",CCTV16奥林匹克
+https://p.ggiptv.com/v/ysp.m3u8?token=0%2FE%2BDB4XDxnsRu%2BtgLGqTqzn&id=cctv16
+#EXTINF:-1 group-title="央视",CCTV17农业农村
+https://p.ggiptv.com/v/ysp.m3u8?token=t6iqcZAXUvCdv%2Bui6h4sx1E2&id=cctv17
+#EXTINF:-1 group-title="央视",CCTV4K超高清
+https://p.ggiptv.com/v/ysp.m3u8?token=ODvQ%2FLaivwWlQDyMEmuDhdcH&id=cctv4k
+#EXTINF:-1 group-title="央视",CCTV第一剧场
+https://p.ggiptv.com/v/ysp.m3u8?token=3%2Fpn9et4OzpUkmJoMw0UNcsu&id=dyjc
+#EXTINF:-1 group-title="央视",CCTV风云音乐
+https://p.ggiptv.com/v/ysp.m3u8?token=hpaw9DHRTJhbd5VgS2CZZKAJ&id=fyyy
+#EXTINF:-1 group-title="央视",CCTV女性时尚
+https://p.ggiptv.com/v/ysp.m3u8?token=Cmto0ZN%2BCAAj33rBzKNy8yJy&id=nxss
+#EXTINF:-1 group-title="央视",CGTV国际1
+https://p.ggiptv.com/v/ysp.m3u8?token=ISpuFJaMs3lRa6pMkcsV7v%2FT&id=cgtn
+#EXTINF:-1 group-title="央视",CGTV国际2
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="卫视",湖南卫视HD
-https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
-#EXTINF:-1 group-title="卫视",湖南卫视-1080P
-http://jltpc.x3322.net:9901/tsfile/live/0117_2.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视",凤凰卫视
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视
+https://p.ggiptv.com/v/ysp.m3u8?token=YpyinWJwL79tinlKheuO6Vqa&id=hunws
 #EXTINF:-1 group-title="卫视",江苏卫视
-http://cfss.cc/api/ysp/jsws.m3u8
-#EXTINF:-1 group-title="卫视",江苏卫视HD
-https://iptv.luas.edu.cn/liverespath/0be64515076e489456de2f33e7b58ff1b392d3b3/8c0352e42d-0-0-2529f61c8f420136013f1ab8a93169c3/index.m3u8
-#EXTINF:-1 group-title="卫视",江苏卫视-1080P
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-#EXTINF:-1 group-title="卫视",东方卫视HD
+https://p.ggiptv.com/v/ysp.m3u8?token=w%2BYAOkLk8LKmGBB1qFVf2AET&id=jsws
+#EXTINF:-1 group-title="卫视",东方卫视1
 https://iptv.luas.edu.cn/liverespath/4015e6015b3b818a4cbc2247960b8536a3cd0153/0bc51b40df-0-0-23a64a0dc546104d1ba498a41ff49540/index.m3u8
-#EXTINF:-1 group-title="卫视",东方卫视HD2
-http://cfss.cc/api/ysp/dfws.m3u8
-#EXTINF:-1 group-title="卫视",安徽卫视
+#EXTINF:-1 group-title="卫视",东方卫视2
+https://p.ggiptv.com/v/ysp.m3u8?token=yXjuE%2B96MC2uInVg%2B2D4T5zb&id=dfws
+#EXTINF:-1 group-title="卫视",安徽卫视1
+https://p.ggiptv.com/v/hrtn.m3u8?token=Lwuc4FEZjJ3U1bXFGjPQL%2Bbp&id=ahwshd_3000
+#EXTINF:-1 group-title="卫视",安徽卫视2
 https://iptv.luas.edu.cn/liverespath/6e91e17de838dbf7c77f9ed8e41726bd4a1516f5/494a63d492-0-0-94541fa104bd30ce82410455ab950402/index.m3u8
 #EXTINF:-1 group-title="卫视",甘肃卫视
-https://iptv.luas.edu.cn/liverespath/975463fd39229112f75925af024d6ed11de84a0e/d46f4f77ca-0-0-3b64a6fd708d6eeeb0e60461ad736b78/index.m3u8
+https://p.ggiptv.com/v/hrtn.m3u8?token=ML%2BqESEx0T2alFHzgqoqPtJj&id=gsws_1000
+#EXTINF:-1 group-title="卫视",河南卫视
+https://p.ggiptv.com/v/ysp.m3u8?token=dVtIvGEbbLgi3ZojBgv6BwcZ&id=hnws
+#EXTINF:-1 group-title="卫视",深圳卫视
+https://p.ggiptv.com/v/ysp.m3u8?token=rVAFNzGOTcDTbT1yR5tPM%2FbW&id=szws
 #EXTINF:-1 group-title="卫视",四川卫视
 https://iptv.luas.edu.cn/liverespath/ca3f021632b48e6960797776657926074723d276/027c826f0e-0-0-4caf8e44f0157ea591d8857569b9a2c3/index.m3u8
-
+#EXTINF:-1 group-title="卫视",重庆卫视
+https://p.ggiptv.com/v/ysp.m3u8?token=s%2FdmcvInchi9oYkl4Bwr%2Fxqt&id=cqws
 #EXTINF:-1 group-title="卫视",浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+https://p.ggiptv.com/v/ysp.m3u8?token=ghzeV7XPQ7TkZLXZkfKQ4XNg&id=zjws
+#EXTINF:-1 group-title="卫视",天津卫视
+https://p.ggiptv.com/v/ysp.m3u8?token=rKnh0WYzeiWMoBjtI%2FtMkB2z&id=tjws
 #EXTINF:-1 group-title="卫视",星空卫视
 http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 #EXTINF:-1 group-title="卫视",北京卫视
 http://cfss.cc/api/ysp/bjws.m3u8
-
-#EXTINF:-1 group-title="地方频道",成都公共
+#EXTINF:-1 group-title="其它频道",五星体育
+https://p.ggiptv.com/v/bstv.php?token=T7RwzPUnJTi5WdmeSoIsa8FG&id=wxty
+#EXTINF:-1 group-title="其它频道",成都公共
 http://live.cooltv.top/tv/cdtv.php?id=cdgg
