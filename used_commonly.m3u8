@@ -11,8 +11,6 @@ http://cfss.cc/api/ysp/cctv1.m3u8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV2财经2
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV2财经3
-https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV3综艺1
 https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/0df24da9ec-0-0-dca40ddadd2a051ce1a83536d9310820/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV3综艺2
@@ -49,8 +47,6 @@ http://183.196.25.171:808/hls/7/index.m3u8
 https://iptv.luas.edu.cn/liverespath/9e6e3b618b5dc902d992949f0c669bb674f6cde8/cae4471c68-0-0-316245c664c3311072c7279ec29672fe/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV8电视剧2
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV8电视剧3
-https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV9纪录1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV9纪录2
