@@ -18,7 +18,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV3综艺1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV3综艺2
-http://cfss.cc/api/ysp/cctv3.m3u8
+http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="央视",CCTV4中文国际
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV5体育1
@@ -74,7 +74,7 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/inde
 #EXTINF:-1 group-title="央视",CCTV15音乐2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV16奥林匹克1
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 #EXTINF:-1 group-title="央视",CCTV16奥林匹克2
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV16奥林匹克3
