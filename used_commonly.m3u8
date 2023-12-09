@@ -85,7 +85,11 @@ http://183.196.25.171:808/hls/93/index.m3u8
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8
 #EXTINF:-1 group-title="卫视",凤凰卫视中文
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/2300.m3u8
-#EXTINF:-1 group-title="卫视",湖南卫视
+#EXTINF:-1 group-title="卫视",湖南卫视1
+http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="卫视",湖南卫视2
+http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel25/index.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视3
 https://h5cdn202.kylintv.tv/live/huntvhd_iphone.m3u8
 #EXTINF:-1 group-title="卫视",东方卫视
 http://61.169.37.218:9901/tsfile/live/0107_1.m3u8?key=txiptv
