@@ -2,15 +2,11 @@
 #EXTINF:-1 group-title="新闻频道",CNN
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="央视",CCTV1综合1
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV1综合2
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 group-title="央视",CCTV2财经1
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV2财经2
-https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 group-title="央视",CCTV1综合2
+http://42.225.147.175:8089/hls/1/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV3综艺
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+http://221.210.64.165:2233/hls/10/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV4中文国际
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV5体育
@@ -18,7 +14,7 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/inde
 #EXTINF:-1 group-title="央视",CCTV5+体育赛事
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV6电影1
-https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+http://1.197.253.245:9901/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV6电影2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV7国防军事
@@ -31,14 +27,12 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV10科教
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV11戏曲
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV12社会与法
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV13新闻1
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV13新闻2
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+http://222.137.231.41:808/hls/13/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV14少儿1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV14少儿2
@@ -47,5 +41,3 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/inde
 https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 #EXTINF:-1 group-title="央视",CCTV16奥林匹克2
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV16奥林匹克3
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
